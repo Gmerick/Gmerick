@@ -37,6 +37,13 @@ Projetos de estudo com dados fictícios, instruções de execução, testes auto
 - **Leads:** normalizar contatos, proteger a unicidade no banco e evitar contabilizar uma conversão duas vezes.
 - **Qualidade:** executar testes de integração e compilar os projetos com Maven e GitHub Actions.
 
+## Portfólio de interfaces e sites
+
+Além dos projetos de back-end, estou organizando uma **vitrine de experiências web** para apresentar soluções a clientes e parceiros.
+
+- **[Barbearia Classe A — prévia interativa](https://github.com/Gmerick/Gmerick/tree/main/docs/barbearia-classe-a):** site com identidade clássica, serviços, agendamento ilustrativo e calendário administrativo demonstrativo. A prévia é estática e **não realiza reservas reais**.
+- **[Vitrine de projetos web (código)](https://github.com/Gmerick/Gmerick/tree/main/docs):** estrutura preparada para hospedar novos projetos com GitHub Pages.
+
 ## Conhecimentos e ferramentas
 
 | Área | Foco |
